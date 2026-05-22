@@ -1,0 +1,11 @@
+Index: .python-version
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>3.13\r\n
+===================================================================
+diff --git a/.python-version b/.python-version
+--- a/.python-version	(revision 0fab259949e5615ff2d78023740f8cc0fdc6e0ef)
++++ b/.python-version	(date 1778228427432)
+@@ -1,1 +1,1 @@
+-3.13
++.13

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85876136-03d7-42f1-a128-06d60989bb1e" name="Changes" comment="moved old app,old excel to db , old blueprint(where all funtions were in 1 py file) old , some empty unused py files , location text file">
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/pyproject.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3DQy1ccUPDIxR9DU1L5CnLmISHb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.areas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blueprint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cantons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.direct_payment_category.executor&quot;: &quot;Run&quot;,
+    &quot;Python.direct_payments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.excel_db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.farming_categories.executor&quot;: &quot;Run&quot;,
+    &quot;Python.n_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.observations.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kevin/OneDrive/Dokumente/software/group-14-adoh-augustine/backend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend" />
+      <recent name="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend\db" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend\recyle" />
+      <recent name="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/app/.env" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend\app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kevin\OneDrive\Dokumente\software\group-14-adoh-augustine\backend\recyle\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/excel_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.excel_db" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.excel_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28294.336" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85876136-03d7-42f1-a128-06d60989bb1e" name="Changes" comment="" />
+      <created>1778228373293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778228373293</updated>
+      <workItem from="1778228374354" duration="540000" />
+      <workItem from="1778228926617" duration="1442000" />
+      <workItem from="1778230464332" duration="11096000" />
+      <workItem from="1778671847572" duration="5219000" />
+      <workItem from="1778763303138" duration="17269000" />
+      <workItem from="1778827681435" duration="13364000" />
+      <workItem from="1778850445585" duration="2744000" />
+      <workItem from="1778853569017" duration="1634000" />
+      <workItem from="1778867029382" duration="1929000" />
+      <workItem from="1778870712856" duration="1795000" />
+      <workItem from="1778927709048" duration="6625000" />
+      <workItem from="1778934476148" duration="594000" />
+      <workItem from="1778949146034" duration="1894000" />
+      <workItem from="1778953258759" duration="932000" />
+      <workItem from="1779259477566" duration="3261000" />
+      <workItem from="1779399518255" duration="1981000" />
+    </task>
+    <task id="LOCAL-00001" summary="Flask app">
+      <option name="closed" value="true" />
+      <created>1778244487106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778244487107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="KOBE BRYANT RECYLE">
+      <option name="closed" value="true" />
+      <created>1778244942190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778244942190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sample of jsonify">
+      <option name="closed" value="true" />
+      <created>1778683688648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778683688648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sample of jsonify">
+      <option name="closed" value="true" />
+      <created>1778684137575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778684137575</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update blue prints , flask chnages , data population , fiuxed jsonify , Noticied AREA TOTAL ISSUE, moved files to recycle">
+      <option name="closed" value="true" />
+      <created>1778779511864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778779511864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="db finance ,  add  queries to blueprint.py">
+      <option name="closed" value="true" />
+      <created>1778837540189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778837540189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="endpoints new for finace added to &#10;appp">
+      <option name="closed" value="true" />
+      <created>1778840025275</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778840025275</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed mistakes the blueprints , i created from my old ver of bluepritns in 1 file and subdivided them into the varies sections of our db ,  i sent useless files to recyle folder just in case i might need to double somethings later">
+      <option name="closed" value="true" />
+      <created>1778934056260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778934056260</updated>
+    </task>
+    <task id="LOCAL-00009" summary="recyle materials">
+      <option name="closed" value="true" />
+      <created>1778934217719</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778934217719</updated>
+    </task>
+    <task id="LOCAL-00010" summary="moved old app,old excel to db , old blueprint(where all funtions were in 1 py file) old , some empty unused py files , location text file">
+      <option name="closed" value="true" />
+      <created>1778950636898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1778950636898</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flask app" />
+    <MESSAGE value="KOBE BRYANT RECYLE" />
+    <MESSAGE value="sample of jsonify" />
+    <MESSAGE value="update blue prints , flask chnages , data population , fiuxed jsonify , Noticied AREA TOTAL ISSUE, moved files to recycle" />
+    <MESSAGE value="db finance ,  add  queries to blueprint.py" />
+    <MESSAGE value="endpoints new for finace added to &#10;appp" />
+    <MESSAGE value="fixed mistakes the blueprints , i created from my old ver of bluepritns in 1 file and subdivided them into the varies sections of our db ,  i sent useless files to recyle folder just in case i might need to double somethings later" />
+    <MESSAGE value="recyle materials" />
+    <MESSAGE value="moved old app,old excel to db , old blueprint(where all funtions were in 1 py file) old , some empty unused py files , location text file" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved old app,old excel to db , old blueprint(where all funtions were in 1 py file) old , some empty unused py files , location text file" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$database.coverage" NAME="database Coverage Results" MODIFIED="1778950502168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/backend$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1778783158721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/backend$direct_payments.coverage" NAME="direct_payments Coverage Results" MODIFIED="1778930046891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$blueprint.coverage" NAME="blueprint Coverage Results" MODIFIED="1778836815884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/backend$direct_payment_category.coverage" NAME="direct_payment_category Coverage Results" MODIFIED="1778930051078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$farming_categories.coverage" NAME="farming_categories Coverage Results" MODIFIED="1778930038939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$new_app.coverage" NAME="new_app Coverage Results" MODIFIED="1778930909648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/backend$n_app.coverage" NAME="n_app Coverage Results" MODIFIED="1778933590503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/backend$areas.coverage" NAME="areas Coverage Results" MODIFIED="1778930033618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$cantons.coverage" NAME="cantons Coverage Results" MODIFIED="1778930036701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$observations.coverage" NAME="observations Coverage Results" MODIFIED="1778930042074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blueprints" />
+    <SUITE FILE_PATH="coverage/backend$excel_db.coverage" NAME="excel_db Coverage Results" MODIFIED="1778870835077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/backend$database_engine.coverage" NAME="database_engine Coverage Results" MODIFIED="1778228587173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/backend$app.coverage" NAME="app Coverage Results" MODIFIED="1778932956252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
